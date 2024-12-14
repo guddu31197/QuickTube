@@ -1,0 +1,14 @@
+.video-listing-container{
+    display: flex;
+}
+ .videocard-list{
+    display: flex;
+    flex-wrap: wrap;
+}
+.wrapping{
+    margin-top: 5px;
+    background-color: white;
+}
+
+
+

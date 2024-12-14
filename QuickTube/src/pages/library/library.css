@@ -1,0 +1,17 @@
+.playlists{
+    height: 5rem;
+    width: auto;
+    padding: 1rem;
+    background-color: var(--icon-color);
+    color: var(--white);
+    text-align: center;
+    align-items: center;
+    cursor: pointer;
+    font-size: 2rem;
+    margin: 1rem;
+    border-radius: 20px;
+    display: flex;
+}
+.playlist-lists{
+    display: flex;
+}

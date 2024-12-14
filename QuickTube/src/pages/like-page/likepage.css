@@ -1,0 +1,21 @@
+.explore-button{
+    border: 1px solid var(--icon-color);
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    color: var(--icon-color);
+}
+.no-video-present{
+    text-align: center;
+    justify-content: center;
+    line-height: 4rem;
+    /* margin: 7rem; */
+}
+.title-text{
+    color: var(--white);
+    text-align: center;
+    display: block;
+}
+.explore-button:hover{
+    background-color: var(--icon-color);
+    color: var(--white);
+}

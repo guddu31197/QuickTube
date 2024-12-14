@@ -1,0 +1,23 @@
+.video-watch-card{
+    width: 90%;
+    height: 35rem;
+    margin: 1rem;
+    
+}
+.view-wrapper {
+    height: 4rem;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 10px;
+    margin-left: auto;
+  }
+  .like-container{
+    display: flex;
+    margin-left: auto;
+  }
+  .link{
+    cursor: pointer;
+  }
